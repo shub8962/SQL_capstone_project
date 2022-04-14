@@ -1,2 +1,0 @@
-# SQL_capstone_project
-Retail_superstore_data_analysis using SQL
